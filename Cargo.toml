@@ -1,0 +1,8 @@
+[package]
+name = "pico"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+x11 = "2.21.0"
+arboard = "3.6.1"
